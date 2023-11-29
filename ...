@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fortnite Page</title>
+<style>
+/* CSS Styles */
+img {
+width: 500px;
+height: 300px;
+}
+</style>
+</head>
+<body>
+<h1>Welcome to my Fortnite page!</h1>
+<p>Fortnite is a popular online video game developed by Epic Games.</p>
+<img src="fortnite-image.jpg" alt="Fortnite Image">
+</body>
+</html>
